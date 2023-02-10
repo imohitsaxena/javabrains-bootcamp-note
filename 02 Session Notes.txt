@@ -1,0 +1,8 @@
+To be looked into:
+REST alternates to learn about:
+GRAPH
+gRPC
+
+Browser Memory -- what is it?
+
+GitHub copilot
